@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi, I'm Peert
+- 🖥️ I have been programming professionally in PHP for over 7 years...
+- ⚡ and privately in PHP, Go, Kotlin, Python, JS and many more
+- 🔭 I’m currently working on getting opening up my private projects to the open source world
+- 🌱 I’m currently learning Rust, Gleam (and BeamVM), Vue.js and Phoenix
 
 <!--
 **Asfolny/Asfolny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
